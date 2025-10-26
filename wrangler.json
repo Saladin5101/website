@@ -1,0 +1,5 @@
+{
+  "name": "saladin-worker",  # 随便起个名字（比如你的项目名）
+  "compatibility_date": "2025-10-26",  # 用今天的日期
+  "main": "src/index.js"  # 关键：指定Worker入口文件路径
+}
